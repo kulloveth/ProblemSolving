@@ -7,6 +7,6 @@ public class RowSumOddNumbers {
     }
 
     public static void main (String[]args){
-        System.out.println(rowSumOddNumbers(5));
+        System.out.println(rowSumOddNumbers(2));
     }
 }
